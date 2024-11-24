@@ -1,0 +1,418 @@
+POST https://into-se-project-res.onrender.com/predict/
+Content-Type: application/json
+Authorization: Token fbec421533c094815987f308e98a6b2427229008
+Content-Length: 158
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+x-http2-scheme: https
+
+{       "Pregnancies": 10,
+"Glucose": 182,
+"BloodPressure": 84,
+"SkinThickness": 40,
+"Insulin":105,
+"BMI":33.6,
+"DiabetesPedigreeFunction": 0.501,
+"Age": 20
+}
+
+<> 2024-07-28T210530.200.json
+
+###
+
+POST https://into-se-project-res.onrender.com/predict/
+Content-Type: application/json
+Authorization: Token fbec421533c094815987f308e98a6b2427229008
+Content-Length: 158
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+x-http2-scheme: https
+
+{       "Pregnancies": 10,
+"Glucose": 182,
+"BloodPressure": 84,
+"SkinThickness": 40,
+"Insulin":105,
+"BMI":33.6,
+"DiabetesPedigreeFunction": 0.501,
+"Age": 20
+}
+
+<> 2024-07-28T210503.200.json
+
+###
+
+POST https://into-se-project-res.onrender.com/predict/
+Content-Type: application/json
+Authorization: Token fbec421533c094815987f308e98a6b2427229008
+Content-Length: 158
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+x-http2-scheme: https
+
+{       "Pregnancies": 10,
+"Glucose": 182,
+"BloodPressure": 84,
+"SkinThickness": 40,
+"Insulin":105,
+"BMI":33.6,
+"DiabetesPedigreeFunction": 0.501,
+"Age": 20
+}
+
+<> 2024-07-27T100100.200.json
+
+###
+
+POST https://into-se-project-res.onrender.com/login/
+Content-Type: application/json
+Content-Length: 61
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+x-http2-scheme: https
+
+{
+  "email": "jordan@gmail.com",
+  "password": "jordan1999"
+}
+
+<> 2024-07-27T095959.200.json
+
+###
+
+POST https://into-se-project-res.onrender.com/register/
+Content-Type: application/json
+Content-Length: 112
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+x-http2-scheme: https
+
+{
+  "email": "jordan@gmail.com",
+  "password": "jordan1999",
+  "last_name": "Nguepi",
+  "first_name": "jordan"
+}
+
+###
+
+POST https://into-se-project-res.onrender.com/login/
+Content-Type: application/json
+Content-Length: 61
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+x-http2-scheme: https
+
+{
+  "email": "jordan@gmail.com",
+  "password": "jordan1999"
+}
+
+<> 2024-07-27T094653.400.json
+
+###
+
+POST https://into-se-project-res.onrender.com/predict/
+Content-Type: application/json
+Authorization: Token 07048f8cab004dc1c09181aca4f406ccc666878d
+Content-Length: 214
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+x-http2-scheme: https
+
+{       "Pregnancies": 10,
+        "Glucose": 182,
+        "BloodPressure": 84,
+        "SkinThickness": 40,
+        "Insulin":105,
+        "BMI":33.6,
+        "DiabetesPedigreeFunction": 0.501,
+        "Age": 20
+}
+
+<> 2024-07-27T094534.401.json
+
+###
+
+POST http://localhost:8000/predict/
+Content-Type: application/json
+Authorization: Bearer 07048f8cab004dc1c09181aca4f406ccc666878d
+Content-Length: 214
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{       "Pregnancies": 10,
+        "Glucose": 182,
+        "BloodPressure": 84,
+        "SkinThickness": 40,
+        "Insulin":105,
+        "BMI":33.6,
+        "DiabetesPedigreeFunction": 0.501,
+        "Age": 20
+}
+
+<> 2024-07-25T152734.401.json
+
+###
+
+POST http://localhost:8000/predict/
+Content-Type: application/json
+Authorization: Token 07048f8cab004dc1c09181aca4f406ccc666878d
+Content-Length: 214
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{       "Pregnancies": 10,
+        "Glucose": 182,
+        "BloodPressure": 84,
+        "SkinThickness": 40,
+        "Insulin":105,
+        "BMI":33.6,
+        "DiabetesPedigreeFunction": 0.501,
+        "Age": 20
+}
+
+<> 2024-07-25T152711.200.json
+
+###
+
+POST http://localhost:8000/predict/
+Content-Type: application/json
+Authorization: Bearer 07048f8cab004dc1c09181aca4f406ccc666878d
+Content-Length: 214
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{       "Pregnancies": 10,
+        "Glucose": 182,
+        "BloodPressure": 84,
+        "SkinThickness": 40,
+        "Insulin":105,
+        "BMI":33.6,
+        "DiabetesPedigreeFunction": 0.501,
+        "Age": 20
+}
+
+<> 2024-07-25T152650.401.json
+
+###
+
+POST http://localhost:8000/login/
+Content-Type: application/json
+Content-Length: 57
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+"email": "jordan@gmail.com",
+"password": "jordan1999"
+}
+
+<> 2024-07-25T145614.200.json
+
+###
+
+POST http://localhost:8000/register/
+Content-Type: application/json
+Content-Length: 109
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{ "email": "jordan@gmail.com",
+  "password":"jordan1999",
+  "first_name": "jordan",
+  "last_name": "nguepi"
+}
+
+###
+
+POST http://localhost:8000/login/
+Content-Type: application/json
+Content-Length: 57
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+"email": "jordan@gmail.com",
+"password": "jordan1999"
+}
+
+<> 2024-07-25T142929.500.html
+
+###
+
+POST http://localhost:8000/login/
+Content-Type: application/json
+Content-Length: 57
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+"email": "jordan@gmail.com",
+"password": "jordan1999"
+}
+
+<> 2024-07-25T142717.200.json
+
+###
+
+POST http://localhost:8000/predict/
+Content_type: application/json
+Authorization: Bearer 630e0e9873a94349bff7f857dd449abbb457879c
+Content-Length: 216
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+        "Pregnancies": 10,
+        "Glucose": 182,
+        "BloodPressure": 84,
+        "SkinThickness": 40,
+        "Insulin":105,
+        "BMI":33.6,
+        "DiabetesPedigreeFunction": 0.501,
+        "Age": 20
+}
+
+<> 2024-07-25T141950.403.json
+
+###
+
+POST http://localhost:8000/predict/
+Content_type: application/json
+Authorization: Bearer "630e0e9873a94349bff7f857dd449abbb457879c"
+Content-Length: 216
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+        "Pregnancies": 10,
+        "Glucose": 182,
+        "BloodPressure": 84,
+        "SkinThickness": 40,
+        "Insulin":105,
+        "BMI":33.6,
+        "DiabetesPedigreeFunction": 0.501,
+        "Age": 20
+}
+
+<> 2024-07-25T141814.403.json
+
+###
+
+POST http://localhost:8000/login/
+Content-Type: application/json
+Content-Length: 57
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+"email": "jordan@gmail.com",
+"password": "jordan1999"
+}
+
+<> 2024-07-25T141730.200.json
+
+###
+
+POST http://localhost:8000/predict/
+Content_type: application/json
+Content-Length: 216
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+        "Pregnancies": 10,
+        "Glucose": 182,
+        "BloodPressure": 84,
+        "SkinThickness": 40,
+        "Insulin":105,
+        "BMI":33.6,
+        "DiabetesPedigreeFunction": 0.501,
+        "Age": 20
+}
+
+<> 2024-07-25T141442.403.json
+
+###
+
+POST http://localhost:8000/login/
+Content-Type: application/json
+Content-Length: 61
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "email": "jordan@gmail.com",
+  "password": "jordan1993"
+}
+
+<> 2024-07-25T140944.400.json
+
+###
+
+POST http://localhost:8000/login/
+Content-Type: application/json
+Content-Length: 61
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "email": "jordan@gmail.com",
+  "password": "jordan1999"
+}
+
+<> 2024-07-25T140918.200.json
+
+###
+
+POST http://localhost:8000/register/
+Content-Type: application/json
+Content-Length: 109
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{ "email": "jordan@gmail.com",
+  "password":"jordan1999",
+  "first_name": "jordan",
+  "last_name": "nguepi"
+}
+
+###
+
+POST http://localhost:8000/register/
+Content-Type: application/json
+Content-Length: 58
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{ "email": "jordan@gmail.com",
+  "password":"jordan1999"
+}
+
+<> 2024-07-25T135959.400.json
+
+###
+

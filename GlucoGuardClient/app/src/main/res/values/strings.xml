@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GlucoGuardClient</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="last_hint">Last name</string>
+    <string name="first_hint">First Name</string>
+</resources>
